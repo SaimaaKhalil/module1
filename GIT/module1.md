@@ -119,7 +119,7 @@ These commands help you handle and organize your files effectively.
 
 ##### 3. Working with Text Files
 
-Use commands like **grep**, **cut**, and **paste** to manipulate text data.
+Use commands like **grep** to manipulate text data.
 
 ###### Using `grep` to Search for Patterns:
 
@@ -132,8 +132,6 @@ grep -e "apple" -e "banana" file.txt  # Search for either "apple" or "banana"
 grep -i "error" file.txt              # Search for the word "error" , case-insensitive
 grep -v "error" file.txt              # Show all lines   that do NOT contain the word "error"
 ```
-
-
 
 ##### 4. Loops in Shell Scripting
 
