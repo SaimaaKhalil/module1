@@ -2,7 +2,7 @@
 
 ---
 
-### <span style="color:rgb(62, 20, 113);">2. Shell Scripting Tutorial</span>
+### <span style="color:rgb(62, 20, 113);"> Shell Scripting Tutorial</span>
 
 <p align="center">
   <img src="images/image.png" alt="Bash Logo" width="300">
