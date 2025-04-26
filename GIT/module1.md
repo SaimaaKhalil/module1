@@ -119,11 +119,7 @@ These commands help you handle and organize your files effectively.
 
 ##### 3. Working with Text Files
 
-Use commands like **grep** to manipulate text data.
-
-###### Using `grep` to Search for Patterns:
-
-The `grep` command is used to search for specific patterns within files. It prints the lines that match the given pattern.
+Use commands like **grep** .The `grep` command is used to search for specific patterns within files. It prints the lines that match the given pattern.
 ```bash
 grep "pattern" file.txt               # Search for the word "pattern"  
 grep "error" file.txt                 # Search for the word "error" 
