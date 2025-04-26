@@ -24,7 +24,8 @@
 Shells are **interactive**, executing commands entered by the user. To automate repetitive tasks, we can write commands in a **Shell Script** (`.sh` file) to avoid retyping. Shell scripting is easy to learn, especially if you have basic programming knowledge.
 ##### 1. **Open Your Shell Scripting Terminal**
 
-To begin writing shell scripts, open your Bash terminal or any other shell-based terminal:
+To begin writing shell scripts, open your Bash terminal or any other shell-based terminal.
+
 You can check for valid shells :
 <p align="center">
   <img src="images/shells.jpg" alt="Bash Logo" width="300">
